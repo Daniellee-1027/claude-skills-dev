@@ -1,0 +1,46 @@
+Name,Role/Title,Team,Background,LinkedIn/Profile clue,Status,Source type,Source URL
+Mustafa Suleyman,EVP & CEO Microsoft AI,Overall/Superintelligence,DeepMind & Inflection co-founder,microsoft.ai/team,Active,Primary,https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/
+Karen Simonyan,Chief Scientist,Superintelligence,Inflection co-founder; ex-DeepMind (VGG/AlphaZero),search LinkedIn,Active,Primary,https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/
+Nando de Freitas,VP of AI (multimodal),Superintelligence,ex-DeepMind (Gato/AlphaCode); ex-Oxford prof,microsoft.ai/team/nando-de-freitas,Active,Primary,https://microsoft.ai/team/nando-de-freitas/
+Jacob Andreou,EVP Copilot,Copilot,ex-Snap SVP; Greylock,search LinkedIn,Active,Primary,https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/
+Misha Bilenko,CVP Microsoft GenAI,MAI,Microsoft GenAI,search LinkedIn,Active,Secondary,https://www.computerworld.com/article/2067663/microsoft-hires-ex-deepmind-co-founder-to-lead-copilot-ai-initiatives.html
+Ryan Roslansky,Co-lead M365+Copilot platform,Copilot,LinkedIn CEO,search LinkedIn,Active,Primary,https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/
+Perry Clarke,Co-lead M365+Copilot platform (Distinguished Engineer),Copilot,Microsoft M365,search LinkedIn,Active,Primary,https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/
+Charles Lamanna,Co-lead M365+Copilot platform,Copilot,Microsoft Power Platform,search LinkedIn,Active,Primary,https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/
+Ali Farhadi,Senior AI leader/researcher,Superintelligence,ex-Ai2 CEO; UW professor; Xnor.ai founder,search LinkedIn,Active,Secondary,https://www.geekwire.com/2026/microsoft-hires-former-ai2-ceo-ali-farhadi-and-key-researchers-for-suleymans-ai-team/
+Hanna Hajishirzi,Researcher (NLP/language models),Superintelligence,Ai2 (OLMo co-lead); UW professor,search LinkedIn,Active,Secondary,https://www.geekwire.com/2026/microsoft-hires-former-ai2-ceo-ali-farhadi-and-key-researchers-for-suleymans-ai-team/
+Ranjay Krishna,Researcher (multimodal),Superintelligence,Ai2; UW professor,search LinkedIn,Active,Secondary,https://www.geekwire.com/2026/microsoft-hires-former-ai2-ceo-ali-farhadi-and-key-researchers-for-suleymans-ai-team/
+Sophie Lebrecht,Operations leader,Superintelligence,ex-Ai2 COO; co-founder Neon Labs,search LinkedIn,Active,Secondary,https://www.geekwire.com/2026/microsoft-hires-former-ai2-ceo-ali-farhadi-and-key-researchers-for-suleymans-ai-team/
+Amar Subramanya,CVP of AI (Copilot foundation models),Superintelligence/MAI,ex-Google DeepMind (Gemini eng VP),search LinkedIn,LEFT to Apple (verify),Secondary,https://www.cnbc.com/2025/07/22/microsoft-google-deepmind-ai-talent.html
+Adam Sadovsky,Corporate VP,MAI,ex-DeepMind distinguished SWE/senior director,search LinkedIn,Active,Secondary,https://www.cnbc.com/2025/07/22/microsoft-google-deepmind-ai-talent.html
+Sonal Gupta,Member of Technical Staff,MAI,ex-Google DeepMind engineering lead,search LinkedIn,Active,Secondary,https://www.cnbc.com/2025/07/22/microsoft-google-deepmind-ai-talent.html
+Tim Frank,Product Manager,MAI,ex-Google DeepMind PM,search LinkedIn,Active,Secondary,https://www.cnbc.com/2025/07/22/microsoft-google-deepmind-ai-talent.html
+Jonas Rothfuss,Member of Technical Staff,MAI,ex-Google DeepMind research scientist,search LinkedIn,Active (joined May 2025),Secondary,https://www.cnbc.com/2025/07/22/microsoft-google-deepmind-ai-talent.html
+Marco Tagliasacchi,Research Scientist (audio/voice),Zurich/Superintelligence,ex-DeepMind (NotebookLM Audio Overviews; Astra),search LinkedIn,Active,Secondary,https://fortune.com/2025/02/06/microsoft-raided-google-scientists-ai-deepmind-mustafa-suleyman-tagliasacchi-borsos-minderer/
+Zalan Borsos,Research Scientist (audio/voice),Zurich/Superintelligence,ex-DeepMind (Audio Overviews),search LinkedIn,Active,Secondary,https://fortune.com/2025/02/06/microsoft-raided-google-scientists-ai-deepmind-mustafa-suleyman-tagliasacchi-borsos-minderer/
+Matthias Minderer,Research Scientist (vision),Zurich/Superintelligence,ex-Google Brain/DeepMind; Harvard PhD,search LinkedIn,Active,Secondary,https://fortune.com/2025/02/06/microsoft-raided-google-scientists-ai-deepmind-mustafa-suleyman-tagliasacchi-borsos-minderer/
+Jordan Hoffmann,Lead London hub (language models & infra),London hub,ex-DeepMind (Chinchilla) -> Inflection,search LinkedIn,Active,Primary,https://blogs.microsoft.com/blog/2024/04/07/announcing-new-microsoft-ai-hub-in-london/
+Harsha Nori,Head of AI - MAI Health (DxO lead author),AI Health,Microsoft Research,microsoft.com/en-us/research/people/hanori/,Active,Primary,https://arxiv.org/abs/2506.22405
+Mayank Daswani,Researcher,AI Health,Microsoft AI Health,search LinkedIn,Active,Primary,https://arxiv.org/abs/2506.22405
+Christopher Kelly,Clinical research scientist / Data Analytics lead,AI Health,ex-DeepMind; paediatrician,linkedin.com/in/christopherkelly1/,Active,Primary,https://arxiv.org/abs/2506.22405
+Scott Lundberg,Member of Technical Staff,AI Health/ML,creator of SHAP & guidance,linkedin.com/in/scott-lundberg-62ba928/,Active,Primary,https://arxiv.org/abs/2506.22405
+Marco Tulio Ribeiro,ML/NLP Researcher,AI Health/ML,co-creator guidance; LIME author,scholar.google rmsIyGMAAAAJ,Active,Primary,https://arxiv.org/abs/2506.22405
+Marc Wilson,Researcher,AI Health,Microsoft AI Health,linkedin.com/in/marcpwilson/,Active,Primary,https://arxiv.org/abs/2506.22405
+Xiaoxuan (Xiao) Liu,Health Research Lead (MD PhD),AI Health,Microsoft AI Health,search LinkedIn,Active,Primary,https://arxiv.org/abs/2506.22405
+Viknesh Sounderajah,Clinician-researcher,AI Health,Microsoft AI Health,search LinkedIn,Active,Primary,https://arxiv.org/abs/2506.22405
+Jonathan M. Carlson,Researcher,Microsoft Research/AI Health,Microsoft Research,microsoft.com/en-us/research/people/carlson/,Active,Primary,https://arxiv.org/abs/2506.22405
+Matthew P. Lungren,Medical imaging,AI Health,Microsoft (medical imaging),search LinkedIn,Active,Primary,https://arxiv.org/abs/2506.22405
+Bay Gross,Member,AI Health,co-founder Cityblock Health,search LinkedIn,Active (lower confidence),Primary,https://arxiv.org/abs/2506.22405
+Peter Hames,Member,AI Health,co-founder Big Health,search LinkedIn,Active,Primary,https://arxiv.org/abs/2506.22405
+Dominic King,VP of Health,AI Health,ex-head of DeepMind Health; UK surgeon,search LinkedIn,Active,Primary,https://arxiv.org/abs/2506.22405
+Eric Horvitz,Chief Scientific Officer (corporate advisor),Microsoft (advisory),Microsoft Research,microsoft.com/en-us/research/people/horvitz/,Active,Primary,https://arxiv.org/abs/2506.22405
+Trevor Back,Product lead,AI Health,ex-DeepMind Health; ex-Speechmatics,search LinkedIn,Active,Secondary,https://www.windowscentral.com/software-apps/microsoft-ai-ceo-headhunted-3-former-colleagues-from-google-deepmind-to-bolster-advances-in-a-new-ai-division
+Hoifung Poon,Acknowledged contributor (DxO),Microsoft Research/Health,Microsoft Research,search LinkedIn,Active,Primary,https://microsoft.ai/news/the-path-to-medical-superintelligence/
+Bryan Bunning,Acknowledged contributor (DxO),AI Health,Microsoft AI,search LinkedIn,Active,Primary,https://microsoft.ai/news/the-path-to-medical-superintelligence/
+Andrija Milicevic,Acknowledged contributor (DxO),AI Health,Microsoft AI,search LinkedIn,Active,Primary,https://microsoft.ai/news/the-path-to-medical-superintelligence/
+David Rhew,Acknowledged contributor (DxO),Microsoft (health),Microsoft Global Chief Medical Officer,search LinkedIn,Active,Primary,https://microsoft.ai/news/the-path-to-medical-superintelligence/
+Tina Vu,Designer,MAI,Microsoft AI,microsoft.ai/team,Active,Primary,https://microsoft.ai/team/
+Mahsa Ershadi,Researcher (human side of AI),MAI,Microsoft AI,microsoft.ai/team,Active,Primary,https://microsoft.ai/team/
+Hira Mashkoor,Designer,MAI,Microsoft AI,microsoft.ai/team,Active,Primary,https://microsoft.ai/team/
+Samuel Clarke,Designer (Copilot brand),Copilot,Microsoft AI,microsoft.ai/team,Active,Primary,https://microsoft.ai/team/
+Yang Sui,Member of Technical Staff,Superintelligence,Microsoft AI,linkedin.com/in/yang-sui-308055117/,Active,LinkedIn,https://www.linkedin.com/in/yang-sui-308055117/
