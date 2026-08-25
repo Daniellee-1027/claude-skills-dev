@@ -1,0 +1,64 @@
+#,Name,Role/Title,Research Direction,Status,Affiliation,Email,LinkedIn,Webpage,Scholar,Twitter/X,Papers
+1,Aalok Mehta,Researcher,,Active,OpenAI,,,,,,GPT-4
+2,Aaron Jaech,Researcher,,Active,OpenAI,,,,,,o1
+3,Adam Kalai,Researcher,,Active,OpenAI,,,,,,o1
+4,Adam Lerer,Researcher,,Active,OpenAI,,,,,,o1
+5,Adam Perelman,Researcher,,Active,OpenAI,,,,,,GPT-4
+6,Adam Richardson,Researcher,,Active,OpenAI,,,,,,o1
+7,Aditya Ramesh,VP Research Worldsim,"DALL-E, Sora, image gen",Active,OpenAI,,linkedin.com/in/aditya-ramesh-89244b2a5,adityaramesh.com,scholar: user=60K82BkAAAAJ,,GPT-4
+8,Adrien Ecoffet,Researcher,,Active,OpenAI,,,,,,GPT-4
+9,Ahmed El-Kishky,Researcher,,Active,OpenAI,,,,,,o1
+10,Aidan Clark,Researcher,,Active,OpenAI,,,,,,o1
+11,Aiden Low,Researcher,,Active,OpenAI,,,,,,o1
+12,Akila Welihinda,Researcher,,Active,OpenAI,,,,,,GPT-4
+13,Alan Hickey,Researcher,,Active,OpenAI,,,,,,GPT-4
+14,Alec Helyar,Researcher,,Active,OpenAI,,,,,,o1
+15,Alec Radford,Research Scientist,"GPT-1/2/3, CLIP, Whisper",Active,OpenAI,,,,scholar: user=dOad5HoAAAAJ,,GPT-4
+16,Aleksander Madry,Head of Preparedness,"Safety, robustness (MIT prof)",Active,OpenAI/MIT,,linkedin.com/in/aleksander-madry-61115b233,madry.mit.edu,scholar: user=SupjsEUAAAAJ,x.com/aleks_madry,o1
+17,Alethea Power,Researcher,,Active,OpenAI,,,,,,GPT-4
+18,Alex Beutel,Researcher,,Active,OpenAI,,,,,,o1
+19,Alex Carney,Researcher,,Active,OpenAI,,,,,,o1
+20,Alex Iftimie,Researcher,,Active,OpenAI,,,,,,o1
+21,Alex Karpenko,Researcher,,Active,OpenAI,,,,,,o1
+22,Alex Paino,Researcher,,Active,OpenAI,,,,,,GPT-4
+23,Alex Passos,Researcher,,Active,OpenAI,,,,,,GPT-4
+24,Alex Tachard Passos,Researcher,,Active,OpenAI,,,,,,o1
+25,Alexander Neitz,Researcher,,Active,OpenAI,,,,,,o1
+26,Alexander Prokofiev,Researcher,,Active,OpenAI,,,,,,o1
+27,Alexander Wei,Researcher,,Active,OpenAI,,,,,,o1
+28,Ali Kamali,Researcher,,Active,OpenAI,,,,,,GPT-4
+29,Allison Tam,Researcher,,Active,OpenAI,,,,,,o1
+30,Ally Bennett,Researcher,,Active,OpenAI,,,,,,o1
+31,Alvin Wang,Researcher,,Active,OpenAI,,,,,,GPT-4
+32,Amin Tootoonchian,Researcher,,Active,OpenAI,,,,,,GPT-4
+33,Ananya Kumar,Researcher,,Active,OpenAI,,,,,,o1
+34,Andre Saraiva,Researcher,,Active,OpenAI,,,,,,o1
+35,Andrea Vallone,Researcher,,Active,OpenAI,,,,,,"GPT-4, o1"
+36,Andrew Cann,Researcher,,Active,OpenAI,,,,,,GPT-4
+37,Andrew Duberstein,Researcher,,Active,OpenAI,,,,,,o1
+38,Andrew Kondrich,Researcher,,Active,OpenAI,,,,,,"GPT-4, o1"
+39,Andrew Mayne,Researcher,,Active,OpenAI,,,,,,GPT-4
+40,Andrew Peng,Researcher,,Active,OpenAI,,,,,,GPT-4
+41,Andrey Mishchenko,Researcher,,Active,OpenAI,,,,,,"GPT-4, o1"
+42,Andy Applebaum,Researcher,,Active,OpenAI,,,,,,o1
+43,Angela Jiang,Researcher,,Active,OpenAI,,,,,,"GPT-4, o1"
+44,Anna Makanju,Researcher,,Active,OpenAI,,,,,,GPT-4
+45,Anna-Luisa Brakman,Researcher,,Active,OpenAI,,,,,,GPT-4
+46,Aris Konstantinidis,Researcher,,Active,OpenAI,,,,,,GPT-4
+47,Jakub Pachocki,Chief Scientist,"AGI, scaling, GPT-4, RL",Active,OpenAI,verified @openai.com,linkedin.com/in/jakub-pachocki,,openreview.net/profile?id=~Jakub_Pachocki1,,"GPT-4, o1"
+48,Mark Chen,CRO,"DALL-E, Codex, GPT-4, multimodal",Active,OpenAI,verified @openai.com,linkedin.com/in/markchen90,,scholar: user=5fU-QMwAAAAJ,x.com/markchen90,"GPT-4, o1"
+49,Noam Brown,Research Scientist,"Reasoning o1/o3, game theory",Active,OpenAI,verified @cs.cmu.edu,linkedin.com/in/noam-brown-8b785b62,noambrown.github.io,scholar: user=RLDbLcUAAAAJ,x.com/polynoamial,o1
+50,Wojciech Zaremba,Co-founder,"Robotics, Codex, Copilot",Active,OpenAI,,linkedin.com/in/wojciech-zaremba-356568164,,scholar: user=XCZpOcAAAAAJ,,"GPT-4, o1"
+51,Ilya Sutskever,Co-founder/Chief Scientist,"Deep learning, GPT, scaling",Departed 2024,SSI (CEO),,,,,x.com/ilyasut,"GPT-4, o1"
+52,John Schulman,Co-founder/Alignment Lead,"RL, PPO, RLHF, ChatGPT",Departed 2024,Thinking Machines Lab,@thinkingmachines.ai,,joschu.net,scholar: user=itSa94cAAAAJ,x.com/johnschulman2,GPT-4
+53,Andrej Karpathy,Founding member,"Deep learning, CV, LLMs",Departed 2024,Eureka Labs,,linkedin.com/in/andrej-karpathy-9a650716,karpathy.ai,scholar: user=l8WuQJgAAAAJ,x.com/karpathy,
+54,Lilian Weng,VP Research,"Safety, applied AI, Lil Log",Departed 2024,Thinking Machines Lab,@thinkingmachines.ai,linkedin.com/in/lilianweng,lilianweng.github.io,scholar: user=dCa-pW8AAAAJ,x.com/lilianweng,"GPT-4, o1"
+55,Jan Leike,Co-lead Superalignment,"Alignment, RLHF",Departed 2024,Anthropic,,,jan.leike.name,,,GPT-4
+56,Mira Murati,CTO,"Product/research, GPT-4",Departed 2024,Thinking Machines Lab,,,,,,"GPT-4, o1"
+57,Barret Zoph,VP Research Post-Training,"Post-training, ChatGPT, NAS",Returned 2026,OpenAI (GM B2B),,linkedin.com/in/barret-zoph-65990543,barretzoph.github.io,,,"GPT-4, o1"
+58,Paul Christiano,Alignment Researcher,"RLHF inventor, alignment",Departed,NIST/ARC,paulfchristiano@gmail.com,,paulfchristiano.com,,,
+59,Dario Amodei,VP Research,"Safety, scaling",Departed 2021,Anthropic (CEO),,,,,,
+60,Sam McCandlish,Research Lead,Scaling laws,Departed 2021,Anthropic,,,,,,
+61,Tim Brooks,Research Lead,"Video gen (Sora), diffusion",Departed 2024,Meta,,,,,x.com/_tim_brooks,GPT-4
+62,Shengjia Zhao,Researcher,"ChatGPT, reasoning o1",Departed 2025,Meta (Chief Scientist),,,,,,"GPT-4, o1"
+63,Jerry Tworek,VP Research,"ChatGPT, GPT-4, o1/o3",Departed 2025,,,,,,,"GPT-4, o1"
